@@ -1,0 +1,152 @@
+Thursday
+
+docker lighthous - analyzes web apps and web pages, collecting modern performance metrics and insights on developer best practices.
+https://github.com/femtopixel/docker-google-lighthouse
+
+
+https://owasp.org/www-project-zap/
+https://sonic-pi.net/
+jsonlint.com
+
+
+developing with C#
+C:/Users/Sebastian/Downloads/CSharp_2020.pdf
+
+ml workshop instructions
+https://mlnet-workshop.azurewebsites.net/
+fork or clone https://github.com/luisquintanilla/mlnet-workshop
+https://github.com/luisquintanilla/mlnet-workshop/blob/master/docs/challenge.md
+model builder
+https://marketplace.visualstudio.com/items?itemName=MLNET.07
+https://www.youtube.com/channel/UCrDke-1ToEZOAPDfrPGNdQw
+
+exploring memory in .net
+https://blog.adamfurmanek.pl/videos-talks-papers-articles/exploring-memory-in-net-applications/
+
+developing with C# in 2020
+https://github.com/fekberg/NDC_Melbourne
+
+Ken Thompson (creator of unix and C), Rob Pike, Robert Griesemeer
+
+course material
+https://www.dropbox.com/s/efk8cz5pdvribk3/Go%20Workshop%20v1.0.8%20-%20Part%202.pdf?dl=0
+
+
+To make it easy to build simple reliabe software
+
+statically typed and compiled
+
+you can use go with docker
+
+removes the unused packages automatically
+
+// yourbasic.org/golang/switch-statements
+
+to build file
+go build 
+
+build and runs the application
+go run main.go
+
+directory cannot contain more than one packages
+"package main" is a declaration of the package
+there can be more than one file but all of them must be in the same package in the same directotry
+it is package split into multiple files
+you cannto have multiple functions with the same name ina package
+
+"main" function is th entry point for the package
+
+uses type inference for variables
+var num1 = 5
+
+declares and initializes variable at the same time
+num3 := 7
+
+prints the type of the function
+fmt.Printf("%T", num3)
+
+in go arrays are fixed in size
+and compiler checks the array index, when going out of bounds we get a compilation error
+
+slice has a structure of 3 components:
+- data
+- length
+- capacity
+
+go routines starts with the go keyword
+go routine is lightweight thread managed by runtime
+
+func main() {
+	go say("hello", 5)
+	go say("world", 5)
+
+	var input int
+	fmt.Scanln(&input)
+	fmt.Println("Done!")
+
+}
+
+channel is named chan
+channel is pipe that connects go routines (funtions that run concurrently)
+a mean for the go routines to communicate
+you can send values to a channel and you can read values from a channel
+write a value to the channel
+ch <- "A"
+
+it is a blocking communication once you send it to the channel you wait until it is read from channel
+what happends when there are more than one reader
+reading from channel is blocking and FIFO
+reading from a channel
+variable := <- channel
+
+select keyword is awaiting for values from both channels and calls the case for whichever message is received
+	for i := 0; i < 2; i++ {
+		select {
+		case msg1 := <-c1:
+			fmt.Println("received", msg1)
+			currentTime()
+		case msg2 := <-c2:
+			fmt.Println("received", msg2)
+			currentTime()
+		}
+	}
+
+packages
+there are no repositories for golang like NPM
+so you need to publish your package on github or elwhere
+pakcages are downloaded
+go get github.com/hackebrot/turtle
+to C:\Users\<user name>\go\src\github.com\hackebrot\turtle
+
+in golang module is a collection of packages
+
+in go there is no private, public
+if it is camel case it is is internal function not exposed to outside world
+if it is Pascal case it is exportable function, visible to outside world
+
+to create a module you calls
+go mod init github.com/weimenglee/stringmod
+where github.com/weimenglee/stringmod is a module name
+
+go build goes and downloads the content od the referenced package
+and adds require line of code to go.mod file to reference the included package
+
+interface keyword represents any type, f.e.
+var result map[string] interface{}
+is a map with a string key and value anything - i.e. interface
+
+
+there is no inheritance and no classes
+there are interfaces
+
+GDB environment for developing in go
+weimenglee@learn2develop.net
+
+
+
+
+
+
+
+
+
