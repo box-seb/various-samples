@@ -1,0 +1,15 @@
+{
+  "name": "elektron",
+  "version": "1.0.0",
+  "description": "First elektron app",
+  "main": "main.js",
+  "scripts": {
+    "test": "testcmd",
+    "start": "electron ."
+  },
+  "author": "sebfort",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^9.0.5"
+  }
+}

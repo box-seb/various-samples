@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SelfHost": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://nexus.localhost.rktsvc.com:9871"
+    }
+  }
+}
