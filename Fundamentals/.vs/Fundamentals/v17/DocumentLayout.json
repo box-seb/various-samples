@@ -1,0 +1,422 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tests\\Fundamentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\arythmeticequation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\arythmeticequation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\trie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\trie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\ticktacktoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\ticktacktoe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\maxsubarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\maxsubarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\circularbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\circularbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\bfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\bfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\unitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\unitconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|d:\\tests\\fundamentals\\structurestests\\wordcloudtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|solutionrelative:structurestests\\wordcloudtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\wordcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\wordcloud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|d:\\tests\\fundamentals\\structurestests\\unitconvertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|solutionrelative:structurestests\\unitconvertertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\wordcloudtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\wordcloudtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|d:\\tests\\fundamentals\\structurestests\\dfstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|solutionrelative:structurestests\\dfstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\structures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\structures.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|d:\\tests\\fundamentals\\structurestests\\circularbuffertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|solutionrelative:structurestests\\circularbuffertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|d:\\tests\\fundamentals\\structurestests\\structurestests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|solutionrelative:structurestests\\structurestests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|d:\\tests\\fundamentals\\structurestests\\quickorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|solutionrelative:structurestests\\quickorttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|d:\\tests\\fundamentals\\structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D404C1B-E5DE-45C7-AB20-FC6705F71D5A}|Structures\\Structures.csproj|solutionrelative:structures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|d:\\tests\\fundamentals\\structurestests\\trietests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|solutionrelative:structurestests\\trietests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|d:\\tests\\fundamentals\\structurestests\\ticktacktoetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|solutionrelative:structurestests\\ticktacktoetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|d:\\tests\\fundamentals\\structurestests\\arythmeticequationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|solutionrelative:structurestests\\arythmeticequationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|d:\\tests\\fundamentals\\structurestests\\maxsubarraytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5638C6B-2D56-4B88-A430-BFA2AE5F6F5F}|StructuresTests\\StructuresTests.csproj|solutionrelative:structurestests\\maxsubarraytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MaxSubarray.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\MaxSubarray.cs",
+              "RelativeDocumentMoniker": "Structures\\MaxSubarray.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\MaxSubarray.cs",
+              "RelativeToolTip": "Structures\\MaxSubarray.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAwEQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T04:12:44.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bfs.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\Bfs.cs",
+              "RelativeDocumentMoniker": "Structures\\Bfs.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\Bfs.cs",
+              "RelativeToolTip": "Structures\\Bfs.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAwHQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:40:41.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dfs.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\Dfs.cs",
+              "RelativeDocumentMoniker": "Structures\\Dfs.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\Dfs.cs",
+              "RelativeToolTip": "Structures\\Dfs.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAALAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:23:25.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\Node.cs",
+              "RelativeDocumentMoniker": "Structures\\Node.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\Node.cs",
+              "RelativeToolTip": "Structures\\Node.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T00:04:55.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TickTackToe.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\TickTackToe.cs",
+              "RelativeDocumentMoniker": "Structures\\TickTackToe.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\TickTackToe.cs",
+              "RelativeToolTip": "Structures\\TickTackToe.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwCMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:15:40.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trie.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\Trie.cs",
+              "RelativeDocumentMoniker": "Structures\\Trie.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\Trie.cs",
+              "RelativeToolTip": "Structures\\Trie.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA+wE0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:10:48.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitConverter.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\UnitConverter.cs",
+              "RelativeDocumentMoniker": "Structures\\UnitConverter.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\UnitConverter.cs",
+              "RelativeToolTip": "Structures\\UnitConverter.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:46:02.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\Utils.cs",
+              "RelativeDocumentMoniker": "Structures\\Utils.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\Utils.cs",
+              "RelativeToolTip": "Structures\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T03:28:16.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UnitConverterTests.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\StructuresTests\\UnitConverterTests.cs",
+              "RelativeDocumentMoniker": "StructuresTests\\UnitConverterTests.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\StructuresTests\\UnitConverterTests.cs",
+              "RelativeToolTip": "StructuresTests\\UnitConverterTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:46:14.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DfsTests.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\StructuresTests\\DfsTests.cs",
+              "RelativeDocumentMoniker": "StructuresTests\\DfsTests.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\StructuresTests\\DfsTests.cs",
+              "RelativeToolTip": "StructuresTests\\DfsTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T22:50:39.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WordCloud.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\WordCloud.cs",
+              "RelativeDocumentMoniker": "Structures\\WordCloud.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\WordCloud.cs",
+              "RelativeToolTip": "Structures\\WordCloud.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T04:55:42.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WordCloudTests.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\StructuresTests\\WordCloudTests.cs",
+              "RelativeDocumentMoniker": "StructuresTests\\WordCloudTests.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\StructuresTests\\WordCloudTests.cs",
+              "RelativeToolTip": "StructuresTests\\WordCloudTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:24:44.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArythmeticEquation.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\ArythmeticEquation.cs",
+              "RelativeDocumentMoniker": "Structures\\ArythmeticEquation.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\ArythmeticEquation.cs",
+              "RelativeToolTip": "Structures\\ArythmeticEquation.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T04:56:41.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CircularBuffer.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\CircularBuffer.cs",
+              "RelativeDocumentMoniker": "Structures\\CircularBuffer.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\CircularBuffer.cs",
+              "RelativeToolTip": "Structures\\CircularBuffer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:20:29.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\QuickSort.cs",
+              "RelativeDocumentMoniker": "Structures\\QuickSort.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\QuickSort.cs",
+              "RelativeToolTip": "Structures\\QuickSort.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:30:33.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StructuresTests.csproj",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\StructuresTests\\StructuresTests.csproj",
+              "RelativeDocumentMoniker": "StructuresTests\\StructuresTests.csproj",
+              "ToolTip": "D:\\Tests\\Fundamentals\\StructuresTests\\StructuresTests.csproj",
+              "RelativeToolTip": "StructuresTests\\StructuresTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T03:46:08.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MaxSubarrayTests.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\StructuresTests\\MaxSubarrayTests.cs",
+              "RelativeDocumentMoniker": "StructuresTests\\MaxSubarrayTests.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\StructuresTests\\MaxSubarrayTests.cs",
+              "RelativeToolTip": "StructuresTests\\MaxSubarrayTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T04:26:30.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WordCloudTests.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\WordCloudTests.cs",
+              "RelativeDocumentMoniker": "Structures\\WordCloudTests.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\WordCloudTests.cs",
+              "RelativeToolTip": "Structures\\WordCloudTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:21:33.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Structures.csproj",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\Structures.csproj",
+              "RelativeDocumentMoniker": "Structures\\Structures.csproj",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\Structures.csproj",
+              "RelativeToolTip": "Structures\\Structures.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-19T04:55:36.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ArythmeticEquationTests.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\StructuresTests\\ArythmeticEquationTests.cs",
+              "RelativeDocumentMoniker": "StructuresTests\\ArythmeticEquationTests.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\StructuresTests\\ArythmeticEquationTests.cs",
+              "RelativeToolTip": "StructuresTests\\ArythmeticEquationTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T06:11:19.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TrieTests.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\StructuresTests\\TrieTests.cs",
+              "RelativeDocumentMoniker": "StructuresTests\\TrieTests.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\StructuresTests\\TrieTests.cs",
+              "RelativeToolTip": "StructuresTests\\TrieTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T02:36:18.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "QuickortTests.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\StructuresTests\\QuickortTests.cs",
+              "RelativeDocumentMoniker": "StructuresTests\\QuickortTests.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\StructuresTests\\QuickortTests.cs",
+              "RelativeToolTip": "StructuresTests\\QuickortTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T00:30:46.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CircularBufferTests.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\StructuresTests\\CircularBufferTests.cs",
+              "RelativeDocumentMoniker": "StructuresTests\\CircularBufferTests.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\StructuresTests\\CircularBufferTests.cs",
+              "RelativeToolTip": "StructuresTests\\CircularBufferTests.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T01:20:41.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\Structures\\Program.cs",
+              "RelativeDocumentMoniker": "Structures\\Program.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\Structures\\Program.cs",
+              "RelativeToolTip": "Structures\\Program.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T23:42:13.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TickTackToeTests.cs",
+              "DocumentMoniker": "D:\\Tests\\Fundamentals\\StructuresTests\\TickTackToeTests.cs",
+              "RelativeDocumentMoniker": "StructuresTests\\TickTackToeTests.cs",
+              "ToolTip": "D:\\Tests\\Fundamentals\\StructuresTests\\TickTackToeTests.cs",
+              "RelativeToolTip": "StructuresTests\\TickTackToeTests.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACIAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T00:16:14.042Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+version: 0.1
+
+default:
+  build:
+    parameters:
+      cached: true
+      parallel: true
+  validate:
+    parameters:
+      lint: true
+  deploy:
+    parameters: &default_deploy_parameters
+      capabilities: CAPABILITY_IAM
+
+dev:
+  deploy: &dev_deploy
+    parameters:
+      <<: *default_deploy_parameters
+      stack_name: "SebsSamDeployedLambda"
+      s3_bucket: "aws-sam-cli-managed-default-samclisourcebucket-p43mit9g1x9u"
+      s3_prefix: "SebsSamDeployedLambda"
+      region: "us-east-1"
+      parameter_overrides:
+        - Environment=playpen
+
+  local_start_api: *dev_deploy
+  local_invoke: *dev_deploy
+  
