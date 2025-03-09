@@ -1,0 +1,1 @@
+docker build --platform linux/arm64 -t AWS_ACCOUNT_NUMBER.dkr.ecr.us-west-2.amazonaws.com/sebs-multiarch:601-arm --push .
