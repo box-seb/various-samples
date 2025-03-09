@@ -1,0 +1,1 @@
+aws-vault exec playpen/admin -- aws ecr get-login-password | docker login -u AWS --password-stdin https://AWS_ACCOUNT_NUMBER.dkr.ecr.us-west-2.amazonaws.com
