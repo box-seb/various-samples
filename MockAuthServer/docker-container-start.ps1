@@ -1,0 +1,1 @@
+﻿docker run -p 443:443 -e ASPNETCORE_URLS="https://+" -e ASPNETCORE_HTTPS_PORT=9871 -e ASPNETCORE_Kestrel__Certificates__Default__Password="password" -e ASPNETCORE_Kestrel__Certificates__Default__Path=/https/auth-server-name.test.pfx -v $env:USERPROFILE\.aspnet\https:/https/ --name nexus nexus
